@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on coding projects in materials science.
 - 💬 Ask me about how many places I have lived in.
 - ⚡ Fun fact: I can speak Spanish.
-- 📫 Check out my [website](leschultz.github.io).
+- 📫 Check out my [website](https://leschultz.github.io).
